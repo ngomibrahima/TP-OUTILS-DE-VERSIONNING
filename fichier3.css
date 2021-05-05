@@ -35,11 +35,4 @@ h1#header a
 	text-indent: -5000px ;
 }
 
-nav#conteneur
-{
-        width: 770px ;
-        margin: 0 auto ;
-        text-align: left ;
-        border: 2px solid #ab4 ;
-        background: #fff ;
-}
+
