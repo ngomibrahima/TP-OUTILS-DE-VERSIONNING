@@ -1,2 +1,6 @@
 # TP-OUTILS-DE-VERSIONNING
+<<<<<<< HEAD
 TP OUTILS DE VERSIONNING
+=======
+Projet Git 
+>>>>>>> 71cf422e8079a7f45fe60832ac3ff40f82e98acd
